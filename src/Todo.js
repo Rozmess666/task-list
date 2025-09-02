@@ -23,7 +23,7 @@ export default function Todo( {todo, toggleTodo}) {
                         <path
                             d="m 56,963 c -102,122 6,9 7,9 17,-5 -66,69 -38,52 122,-77 -7,14 18,4 29,-11 45,-43 23,-4"
                             stroke="#cc2323"
-                            stroke-width="3"
+                            strokeWidth="3"
                             fill="none"
                             className="path1"
                         ></path>
